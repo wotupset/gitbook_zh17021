@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [哈兔大聯盟](README.md)
 
