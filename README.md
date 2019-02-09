@@ -9,14 +9,9 @@ description: 我他妈射爆
 君中国語本当上手  
 谢谢茄子
 
-線上閱讀
-https://wotupset.gitbook.io/awsl/
+線上閱讀 [https://wotupset.gitbook.io/awsl/](https://wotupset.gitbook.io/awsl/)
 
-repo版本库
-https://github.com/wotupset/gitbook_zh17021
-
-
-
+repo版本库 [https://github.com/wotupset/gitbook\_zh17021](https://github.com/wotupset/gitbook_zh17021)
 
 ```text
 {\__/}
